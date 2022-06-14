@@ -1,0 +1,3 @@
+11-1)Nessa função não haverá resultado pois está escrito "multiplica" e a função esta como "multiplicacao", em um programa javascript, estaria errado a sintaxe.
+
+11-2) d-nenhuma das alternativas
